@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Code/LeetCode",
-      "program": "d:/Code/LeetCode/build/Debug/outDebug",
+      "cwd": "d:/Code/LeetCode/3.lengthOfLongestSubstring",
+      "program": "d:/Code/LeetCode/3.lengthOfLongestSubstring/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
